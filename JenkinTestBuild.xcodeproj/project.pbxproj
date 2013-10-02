@@ -460,6 +460,7 @@
 				840A5A8717FC1C800024D2FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		840A5A8817FC1C800024D2FF /* Build configuration list for PBXNativeTarget "JenkinTestBuildTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +469,7 @@
 				840A5A8A17FC1C800024D2FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
